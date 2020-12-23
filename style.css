@@ -43,6 +43,7 @@ a:hover {
 
 .dark .card {
   background: #3c3d40;
+  box-shadow: 8 px 8px #666769;
 }
 
 .form {
