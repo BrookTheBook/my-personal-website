@@ -68,3 +68,8 @@ footer {
   clear: both;
   display: block;
 }
+
+.dark footer {
+  background: #3c3d40;
+  color: white;
+}
