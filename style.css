@@ -64,7 +64,7 @@ a:hover {
 }
 
 footer {
-  background: rgba(219, 219, 219, 0.1);
+  background: rgba(219, 219, 219, 0.2);
   background-opacity: 0.2;
   text-align: center;
   font-size: 90%;
@@ -72,7 +72,7 @@ footer {
   bottom: 0;
   clear: both;
   display: block;
-  height: 20px;
+  height: 30px;
 }
 
 .dark footer {
