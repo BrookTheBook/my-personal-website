@@ -65,11 +65,12 @@ footer {
   background: #dbdbdb;
   text-align: center;
   font-size: 90%;
+  margin-left: 0px;
   bottom: 0;
   clear: both;
   display: block;
   width: 300%;
-  height: 30px;
+  height: 10px;
 }
 
 .dark footer {
